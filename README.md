@@ -32,7 +32,7 @@
 
 
 
-<br/><br/>
+<br/><br/><br/><br/><br/>
 
 
 <a href="https://www.linkedin.com/in/maximo-gomez-pessoa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-maximo--gomez--pessoa-blue?style=flat-square&logo=linkedin"></a>
@@ -42,9 +42,9 @@
 
 </div>
 
-<br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
-
+---
 <div align="left">
   
 **My Setup & Technologies:**
@@ -57,6 +57,10 @@
 </div>
 
 <br/><br/><br/>
+
+
+---
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxiGP0&theme=nord&hide_border=true" alt="GitHub Streak" />
