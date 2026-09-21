@@ -49,7 +49,7 @@
   
 **My Setup & Technologies:**
 * 💻 **OS & Editor:** Arch Linux w/ Qtile | Neovim
-* ⚙️ **Languages:** C | Python3 |JavaScript (JS)
+* ⚙️ **Languages:** C | Python3 | JavaScript (JS)
 * 🌐 **Frontend:** HTML | CSS
 * 🛢 **Databases:** MongoDB
 * 🛠 **Tools:** Git | GitHub | Alacritty | Render | OpenCode
