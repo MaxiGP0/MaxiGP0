@@ -25,7 +25,7 @@
 - 🌐 Frontend: HTML | CSS
 
 - 🛢 Databases: MongoDB
-- 🔧 Tools & Practices: Git | GitHub | Agile Methodologies | Render
+- 🔧 Tools & Practices: Git | GitHub | Agile Methodologies | Render | OpenCode
   
 </div>
 
