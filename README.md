@@ -32,8 +32,8 @@
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxiGP0&show_icons=true&hide_border=true&theme=radical" alt="MaxiGP0's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiGP0&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-plum-five-67.vercel.app/api?username=MaxiGP0&show_icons=true&hide_border=true&theme=radical" alt="MaxiGP0's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-plum-five-67.vercel.app/api/top-langs/?username=MaxiGP0&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
 </div>
 
 
