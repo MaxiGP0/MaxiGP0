@@ -2,7 +2,7 @@
 
 ## Hi 👋 I'm Máximo Gomez Pessoa
 
-> Computer Science student, C and Web programmer. <br/>
+> Currently pursuing a degree in Computer Science and building tools <br/>
  Exploring a more serious side of programming
 
 <br/>
