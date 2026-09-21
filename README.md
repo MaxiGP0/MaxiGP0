@@ -59,13 +59,13 @@
 <br/><br/><br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxiGP0&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxiGP0&theme=nord&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-plum-five-67.vercel.app/api?username=MaxiGP0&show_icons=true&hide_border=true&theme=radical" alt="MaxiGP0's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-plum-five-67.vercel.app/api/top-langs/?username=MaxiGP0&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-plum-five-67.vercel.app/api?username=MaxiGP0&show_icons=true&hide_border=true&theme=nord" alt="MaxiGP0's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-plum-five-67.vercel.app/api/top-langs/?username=MaxiGP0&layout=compact&hide_border=true&theme=nord" alt="Top Languages" />
 </div>
 
 
