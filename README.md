@@ -25,6 +25,8 @@
    <!-- Backend & BD -->
    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 
+  <br/>
+  
    <!-- Herramientas y Entorno -->
    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
    <img src="https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="NeoVim" />
@@ -38,7 +40,7 @@
   <!-- Redes y Contacto -->
   <p>
     <a href="https://www.linkedin.com/in/maximo-gomez-pessoa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-maximo--gomez--pessoa-blue?style=flat-square&logo=linkedin"></a>
-    <a href="mailto:maximogomezpessoa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maximogomezpessoa@gmail.com-blue?style=flat-square&logo=gmail"></a>
+    <a href="mailto:maximogomezpessoa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maximogomezpessoa@gmail.com-blue?style=flat-square&logo=gmail"></a><br/>
     <a href="https://github.com/MaxiGP0"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-MaxiGP0-black?style=flat-square&logo=github"></a>
   </p>
 
