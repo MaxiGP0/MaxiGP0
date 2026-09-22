@@ -31,6 +31,10 @@
    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   </p>
 
+  
+  <br/><br/><br/><br/>
+  
+
   <!-- Redes y Contacto -->
   <p>
     <a href="https://www.linkedin.com/in/maximo-gomez-pessoa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-maximo--gomez--pessoa-blue?style=flat-square&logo=linkedin"></a>
