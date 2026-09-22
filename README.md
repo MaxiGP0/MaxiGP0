@@ -6,10 +6,12 @@
   > Currently pursuing a degree in Computer Science and building tools. <br/>
   > Exploring a more serious side of programming.
 
+  <br/>
+
   <!-- Animacion de texto SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=296573&center=true&vCenter=true&width=435&lines=Computer+Science+Student;C,+Python+%26+Web+Developer;Linux+Enthusiast" alt="Typing SVG" />
 
-  <br/>
+  <br/><br/>
 
   <!-- Agrupacion para Stack Tecnologico -->
   <p>
